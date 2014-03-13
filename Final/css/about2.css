@@ -1,0 +1,166 @@
+
+
+.breadcrumb{
+margin-top:10px;
+background-color:transparent;
+float:left;
+margin-left:5%;
+}
+
+
+
+.wrapper1{
+float:center;
+margin-right:auto;
+margin-left:auto;
+display:block;
+margin-left:30%;
+margin-top:-31%;
+position:absolute;
+clear:right;
+}
+
+.container{
+left:auto;
+right:auto;
+}
+
+.media{
+float:center;
+margin-left:7%;
+border-radius:10px;
+}
+
+.list-group{
+margin-left:5%;
+margin-top:-2%;
+    width:260px;
+}
+
+.banner{
+margin-left:28%;
+margin-top:-2%;
+z-index:3;
+padding:25px;
+float:center;
+position:relative;
+}
+
+.row{
+margin-left:4%;
+height:400px;
+}
+
+.content{
+margin-left:5%;
+margin-top:5%;
+max-width:400px;
+width:30%;
+height:480px;
+background-color:white;
+display:block;
+border-radius:10px;
+padding-top:35px;
+}
+
+.content2{
+margin-left:36%;
+margin-top:-38.2%;
+max-width:400px;
+width:30%;
+height:480px;
+background-color:white;
+display:block;
+border-radius:10px;
+padding-top:35px;
+}
+
+.content3{
+margin-left:66.8%;
+margin-top:-38.2%;
+max-width:400px;
+width:30%;
+height:480px;
+background-color:white;
+display:block;
+border-radius:10px;
+padding-top:35px;
+}
+
+
+.imageIcons{
+width:350px;
+height:250px;
+padding:25px;
+margin-top:-40px;
+margin-left:3.4%;
+
+}
+
+body{
+background:url('../img/city.jpg');
+background-repeat:no-repeat;
+background-position:95% 34%;
+background-size:160px 380px;
+width:100%;
+float:right;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+h3{
+font-size:16px;
+margin-left:32%;
+}
+
+
+.contentText{
+font-family:'Lato', Georgia;
+padding:10px;
+font-size:13px;
+}
+
+.flexslider .slides li {
+   position:relative;
+
+}
+
+.flex-caption {
+   position:absolute;
+   left:0;
+   right:0;
+   bottom:0;
+   background-color:rgba(235,235,235,0.7);   
+   z-index:1;
+   padding:5px;
+
+}
+
+
+
+
+
+
+#wrapperFooter{
+padding-top:40px;
+}
+
+@font-face {
+font-family: 'flexslider-icon';
+src:url('../fonts/flexslider-icon.eot');
+src:url('../fonts/flexslider-icon.eot?#iefix') format('embedded-opentype'),
+   url('../fonts/flexslider-icon.woff') format('woff'),
+   url('../fonts/flexslider-icon.ttf') format('truetype'),
+   url('../fonts/flexslider-icon.svg#flexslider-icon') format('svg');
+font-weight: normal;
+font-style: normal}
