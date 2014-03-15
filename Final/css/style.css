@@ -109,14 +109,7 @@
     text-decoration:none;
 }
 
-.thumbnail {
-    position:relative;
-    overflow:hidden;
-    height:150px;
-    width:150px;
-    font-family:DistrictPro;
-    text-decoration:none;
-}
+
 
 div>img.thumb-pic{
     height: 100%;
@@ -310,4 +303,11 @@ hr { color: #000099; background: #000099; width: 100%; height: 5px; } - See more
 
 div>div>p.container{
     max-width:400px;
+}
+
+.right{
+    float: right;
+}
+.left{
+    float: left;
 }
