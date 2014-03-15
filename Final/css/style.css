@@ -108,6 +108,19 @@
     font-family:DistrictPro;
     text-decoration:none;
 }
+
+.thumbnail {
+    position:relative;
+    overflow:hidden;
+    height:150px;
+    width:150px;
+    font-family:DistrictPro;
+    text-decoration:none;
+}
+
+div>img.thumb-pic{
+    height: 100%;
+}
  
 .caption {
     position:absolute;
@@ -254,9 +267,7 @@ div>div>h2{
 
 hr { color: #000099; background: #000099; width: 100%; height: 5px; } - See more at: http://www.csstutorial.net/2010/06/styling-a-horizontal-rule-with-css/#sthash.bQx1DDvz.dpuf
 
-.vert-nav{
-    margin-top: -40px;
-}
+
 
 .row-alum{
     margin-top: -20px;
@@ -270,9 +281,33 @@ hr { color: #000099; background: #000099; width: 100%; height: 5px; } - See more
     width: 60%;
     margin-right: auto;
     margin-left: auto+10px;
-    margin-top: 30px;
+    margin-top: 20px;
 }
 
 .alumni-caption{
-    max-width:500px;
+    background-color: #FFFFFF;
+    width:620px;
+    margin-right: auto;
+    margin-bottom: 30px;
+    margin-top: 10px;
+
+}
+
+.coach-pic{
+    margin-top: 10px;
+    margin-right:15px;
+}
+
+.vert-nav{
+    margin-left: 10px;
+}
+
+.coach-body{
+    margin-top: 15px;
+    margin-bottom: 15px;
+    background-color: #FFFFFF;
+}
+
+div>div>p.container{
+    max-width:400px;
 }
